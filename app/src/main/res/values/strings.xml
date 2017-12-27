@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyRent</string>
+    <string name="hello_world">Hello World</string>
+    <string name="geolocation_hint">strings</string>
+    <string name="registration_date">strings</string>
+    <string name="location">Location</string>
+    <string name="status">Status</string>
+    <string name="isrented">strings</string>
 </resources>
